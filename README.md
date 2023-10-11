@@ -93,6 +93,16 @@ gantt
 
 ### Power
 
+Current Phase 1 experiment is based on:
+
+- [Adafruit Solar Charger](https://learn.adafruit.com/usb-dc-and-solar-lipoly-charger/overview)
+  - non-MPPT for more optimal charging
+- 3.7V LiPo Battery
+- [Buck / Boost](https://www.amazon.com/DEVMO-Adjustable-Step-UP-Converter-Replaces/dp/B07S39M4J5/ref=sr_1_2_sspa?crid=1HDACRKK284EU&keywords=XL6009+Module&qid=1696967719&s=electronics&sprefix=xl6009+module+%2Celectronics%2C122&sr=1-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+  - Pair allows to adjust voltage for compute and motor controller
+- Solar Panel
+  - AdaFruit only seems to have the big / expensive ones in stock. 
+
 ### Electronics
 
 ### Vision / Camera
