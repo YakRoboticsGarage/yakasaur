@@ -60,10 +60,10 @@ gantt
     Block Diagram :done, block, 2023-05-09, 2023-06-06
 
     section Breadboard
-    Part Selection :active parts, after block, 3w
+    Part Selection :active parts, after block, 10w
     Prototyping : proto, after parts, 2w
     Development Environment :active, 2023-06-13, 2w
-    Demo : milestone, breadboard_demo, 2023-07-11, 1w
+    Demo : milestone, breadboard_demo, 2024-03-01, 1w
 
     section Prototype
     PCB Design :active, pcb, after parts, 6w
@@ -71,7 +71,7 @@ gantt
     Mechanical Design :active, mech, after block, 6w
     Plan : plan, after proto, 1w
     Integration : build, after print_pcb, 4w
-    Demo : milestone, prototype_demo, 2023-09-26, 1w
+    Demo : milestone, prototype_demo, 2024-06-01, 1w
 
     section Production
     Build : prod_build, after prototype_demo, 4w
