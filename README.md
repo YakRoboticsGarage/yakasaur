@@ -91,6 +91,8 @@ gantt
 
 ### Mechanical Design
 
+- [CAD Model (OnShape)](https://cad.onshape.com/documents/192d55ad1aea09aeae92ed88/w/f454e78e4f8166d2557db402/e/180e37ace9ad8b67a4c244a0)
+
 ### Power
 
 Current Phase 1 experiment is based on:
